@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# scriptname - a short explanation of the scripts purpose.
+#
+# Copyright (C) <date> <name>...
+#
+# scriptname [option] [argument] ...
+
+echo "Hello, world!"
